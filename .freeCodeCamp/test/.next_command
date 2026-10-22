@@ -151,3 +151,4 @@ psql --username=freecodecamp --dbname=students
 psql --username=freecodecamp --dbname=students
 TRUNCATE majors, students, majors_courses
 psql --username=freecodecamp --dbname=students
+./insert_data.sh
