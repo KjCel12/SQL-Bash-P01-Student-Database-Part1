@@ -89,3 +89,4 @@ psql --username=freecodecamp --dbname=postgres
 psql --username=freecodecamp --dbname=students
 sudo service postgresql start
 psql --username=freecodecamp --dbname=students
+psql --username=freecodecamp --dbname=postgres
