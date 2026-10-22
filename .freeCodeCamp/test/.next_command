@@ -165,3 +165,4 @@ psql --username=freecodecamp --dbname=students
 \q
 ./insert_data.sh
 psql --username=freecodecamp --dbname=students
+cp students.csv students_test.csv
